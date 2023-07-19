@@ -46,5 +46,3 @@ Rubyist.
 ## Human languages
 - English, Catalan, Spanish.  
 - Some degree of proficiency in Japanese and French.
-
-*Programming language logos sourced from [abrahamcalf's repo](https://github.com/abrahamcalf/programming-languages-logos/).*
