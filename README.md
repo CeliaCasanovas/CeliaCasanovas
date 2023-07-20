@@ -16,12 +16,12 @@ Rubyist.
 ![ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby)
 ![c sharp](https://img.shields.io/badge/C%23-239120?logo=c-sharp)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![java](https://img.shields.io/badge/Java-red?logo=java)
+![java](https://img.shields.io/badge/Java-red?logo=buymeacoffee&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![scheme](https://img.shields.io/badge/Scheme-9F1D20?logo=racket&logoColor=white)
 
 ## Other technologies
-![dragon ruby](https://img.shields.io/badge/DragonRuby-CC342D)
+![dragon ruby](https://img.shields.io/badge/DragonRuby-CC342D?logo=ruby)
 ![angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![node dot js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![my sql](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
