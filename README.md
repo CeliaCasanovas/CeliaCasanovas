@@ -44,6 +44,15 @@ Rubyist.
 ![vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 ![svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
 
+## Uses
+![lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?logo=lubuntu&logoColor=white)
+![windows](https://img.shields.io/badge/Windows-0078D4?logo=windows11&logoColor=white)
+![visual studio code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![v s codium](https://img.shields.io/badge/VS_Codium-2F80ED?logo=vscodium&logoColor=white)
+![visual studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=white)
+![notepad plus plus](https://img.shields.io/badge/Notepad++-90E59A?logo=notepadplusplus&logoColor=white)
+![notepad q q](https://img.shields.io/badge/Notepadqq-90E59A?logo=notepadplusplus&logoColor=white)
+
 ## Human languages
 - English, Catalan, Spanish.  
 - Some degree of proficiency in Japanese and French.
