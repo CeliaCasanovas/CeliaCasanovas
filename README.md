@@ -43,6 +43,7 @@ Rubyist.
 ![kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 ![svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
+![deno](https://img.shields.io/badge/Deno-000000?logo=deno?logoColor=white)
 
 ## Uses
 ![lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?logo=lubuntu&logoColor=white)
