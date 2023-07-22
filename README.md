@@ -40,7 +40,7 @@ Rubyist.
 ## Wants to learn
 ![c plus plus](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin?logoColor=white)
+![kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 ![svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
 
