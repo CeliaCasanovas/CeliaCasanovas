@@ -3,8 +3,8 @@
 Junior fullstack developer from Barcelona.  
 Intern at Inetum.
 
-Videogame, electronic music, anime, punk enthusiast.  
-Rubyist.  
+Videogame, electronic music, anime, punk, computer science enthusiast.  
+Rubyist and Schemer.  
 Likes writing docs.
 
 λf.(λx.f (x x))(λx.f (x x))
@@ -20,6 +20,7 @@ Likes writing docs.
 ![java](https://img.shields.io/badge/Java-red?logo=buymeacoffee&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![scheme](https://img.shields.io/badge/Scheme-9F1D20?logo=racket&logoColor=white)
+![sixty-eight thousand assembly](https://img.shields.io/badge/68k_ASM-E1140A?logo=motorola&logoColor=white)
 
 ## Other technologies
 ![dragon ruby](https://img.shields.io/badge/DragonRuby-CC342D?logo=ruby)
@@ -27,6 +28,7 @@ Likes writing docs.
 ![node dot js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![my sql](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![mongo db](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![reactive x jay ess](https://img.shields.io/badge/RxJS-B7178C?logo=reactivex&logoColor=white)
 
 ## Learning
 ![haskell](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white)
@@ -45,6 +47,8 @@ Likes writing docs.
 ![vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 ![svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
 ![deno](https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white)
+![sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+![three dot jay ess](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
 
 ## Uses
 ![lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?logo=lubuntu&logoColor=white)
@@ -65,3 +69,4 @@ Likes writing docs.
 - Contributing to the Ruby and Lisp communities.
 - Learning about compiler and garbage collector theory and development.
 - Learning enough about computer science to be able to design my dream language - a friendly functional, object-oriented language inspired by Ruby, Scheme, F#, Haskell and the lambda calculus, which would transpile into JavaScript and compile into WASM.
+- Contributing to functional models of concurrency and parallelism.
