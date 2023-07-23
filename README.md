@@ -3,8 +3,9 @@
 Junior fullstack developer from Barcelona.  
 Intern at Inetum.
 
-Videogame, electronic music, punk enthusiast.  
+Videogame, electronic music, anime, punk enthusiast.  
 Rubyist.  
+Likes writing docs.
 
 λf.(λx.f (x x))(λx.f (x x))
 
@@ -57,3 +58,10 @@ Rubyist.
 ## Human languages
 - English, Catalan, Spanish.  
 - Some degree of proficiency in Japanese and French.
+
+## Dreams, from realistic to impractical
+- Building cool, light PWAs.
+- Working on games that speak to people like me.
+- Contributing to the Ruby and Lisp communities.
+- Learning about compiler and garbage collector theory and development.
+- Learning enough about computer science to be able to design my dream language - a friendly functional, object-oriented language inspired by Ruby, Scheme, F#, Haskell and the lambda calculus, which would transpile into JavaScript and compile into WASM.
