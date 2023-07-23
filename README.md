@@ -20,7 +20,7 @@ Likes writing docs.
 ![c sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=buymeacoffee&logoColor=white)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![scheme](https://img.shields.io/badge/Scheme-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
 ![sixty-eight thousand assembly](https://img.shields.io/badge/68k_ASM-E1140A?style=for-the-badge&logo=motorola&logoColor=white)
 
@@ -51,6 +51,7 @@ Likes writing docs.
 ![deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![three dot jay ess](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![solid jay ess](https://img.shields.io/badge/Solid%20JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)
 
 ## Uses
 ![lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&logoColor=white)
