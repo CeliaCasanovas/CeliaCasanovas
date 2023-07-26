@@ -9,7 +9,7 @@ Likes writing docs.
 
 λf.(λx.f (x x))(λx.f (x x))
 
-[![linked in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A8lia-casanovas-b07965284/)
+[![linked in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celia-casanovas/)
 
 ## Academic training
 - Major in Translation Studies (Japanese, French) from the Autonomous University of Barcelona (UAB).
