@@ -51,7 +51,7 @@ Likes writing docs.
 ![deno](https://img.shields.io/badge/Deno-FFFFFF?style=for-the-badge&logo=deno&logoColor=black)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![three dot jay ess](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![solid jay ess](https://img.shields.io/badge/Solid%20JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)
+![solid jay ess](https://img.shields.io/badge/Solid.JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)
 
 ## Uses
 ![lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&logoColor=white)
