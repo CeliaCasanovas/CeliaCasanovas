@@ -12,8 +12,8 @@ Likes writing docs.
 [![linked in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celia-casanovas/)
 
 ## Academic training
-- Major in Translation Studies (Japanese, French) from the Autonomous University of Barcelona (UAB).
-- Higher Technical Degree (CFGS) in Multiplatform Application Design (DAM) from the Barcelona Institute of Information and Communications Technology (ITICB).
+- Bachelor's Degree in Translation Studies (Japanese, French) from the Autonomous University of Barcelona (UAB).
+- Associate's Degree (Higher Technical Degree - CFGS) in Multiplatform Application Design (DAM) from the Barcelona Institute of Information and Communications Technology (ITICB).
 
 ## Knows
 ![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby)
