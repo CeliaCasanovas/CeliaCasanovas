@@ -53,6 +53,7 @@ Rubyist and Schemer.
 ![three dot jay ess](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![solid jay ess](https://img.shields.io/badge/Solid.JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)
 ![rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![discrete mathematics](https://img.shields.io/badge/Discrete_mathematics-purple?style=for-the-badge)
 
 ## Uses
 ![lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&logoColor=white)
