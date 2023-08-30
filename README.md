@@ -5,7 +5,6 @@ Intern at Inetum.
 
 Videogame, electronic music, anime, punk, computer science enthusiast.  
 Rubyist and Schemer.  
-Likes writing docs.
 
 λf.(λx.f (x x))(λx.f (x x))
 
@@ -15,10 +14,12 @@ Likes writing docs.
 - Bachelor's Degree in Translation Studies (Japanese, French) from the Autonomous University of Barcelona (UAB).
 - Associate's Degree (Higher Technical Degree - CFGS) in Multiplatform Application Design (DAM) from the Barcelona Institute of Information and Communications Technology (ITICB).
 
-## Knows
+## Can work in
 ![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby)
 ![c sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+## Has learnt
 ![java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=buymeacoffee&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![scheme](https://img.shields.io/badge/Scheme-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
@@ -36,7 +37,6 @@ Likes writing docs.
 ![haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![f sharp](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)
 ![clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)
-![rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![linear algebra](https://img.shields.io/badge/Linear_algebra-red?style=for-the-badge)
 ![calculus](https://img.shields.io/badge/Calculus-purple?style=for-the-badge)
@@ -52,6 +52,7 @@ Likes writing docs.
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![three dot jay ess](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![solid jay ess](https://img.shields.io/badge/Solid.JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)
+![rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ## Uses
 ![lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&logoColor=white)
