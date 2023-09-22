@@ -47,17 +47,19 @@ Rubyist and Schemer.
 ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![deno](https://img.shields.io/badge/Deno-FFFFFF?style=for-the-badge&logo=deno&logoColor=black)
-![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![three dot jay ess](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![solid jay ess](https://img.shields.io/badge/Solid.JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)
+![deno](https://img.shields.io/badge/Deno-FFFFFF?style=for-the-badge&logo=deno&logoColor=black)
+![bun](https://img.shields.io/badge/Bun-#000000?style=for-the-badge&logo=bun&logoColor=white)
+![three dot jay ess](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![godot](https://img.shields.io/badge/Godot-#478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![discrete mathematics](https://img.shields.io/badge/Discrete_mathematics-purple?style=for-the-badge)
 
 ## Uses
 ![lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![android](https://img.shields.io/badge/Android-#3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![visual studio code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![v s codium](https://img.shields.io/badge/VS_Codium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
 ![visual studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
@@ -74,4 +76,5 @@ Rubyist and Schemer.
 - Contributing to the Ruby and Lisp communities.
 - Learning about compiler and garbage collector theory and development.
 - Learning enough about computer science to be able to design my dream language - a friendly functional, object-oriented language inspired by Ruby, Scheme, F#, Haskell and the lambda calculus, which would transpile into JavaScript and compile into WASM.
+- Learning enough about computer science to be able to design my other dream language - a strongly-typed functional language with no garbage collection for videogame engines and audio processing.
 - Contributing to functional models of concurrency and parallelism.
