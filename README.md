@@ -62,7 +62,7 @@ Rubyist and Schemer.
 
 ## Uses
 ![lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&logoColor=white)
-![pop_oh_ess](https://img.shields.io/badge/popos-48B9C7?style=for-the-badge&logo=popos&logoColor=white)
+![pop_oh_ess](https://img.shields.io/badge/pop_os-48B9C7?style=for-the-badge&logo=popos&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![visual studio code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
