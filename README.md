@@ -62,6 +62,7 @@ Rubyist and Schemer.
 ![godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![rabbit_emm_queue](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![discrete mathematics](https://img.shields.io/badge/Discrete_mathematics-purple?style=for-the-badge)
 
 ## Uses
