@@ -16,7 +16,7 @@ Rubyist and Schemer.
 
 ## Experience in
 ![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby)
-![c sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
+![c sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Has learnt
