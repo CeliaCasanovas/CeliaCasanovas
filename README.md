@@ -74,8 +74,7 @@ Videogame, electronic music, visual kei, metal, j-fashion anime, punk, computer 
 ## Dreams, from realistic to impractical
 - Building cool, light PWAs.
 - Working on games that speak to people like me.
-- Contributing to the Ruby and Lisp communities.
 - Learning about compiler and garbage collector theory and development.
-- Learning enough about computer science to be able to design my dream language - a friendly functional, object-oriented language inspired by Ruby, Scheme, F#, Haskell and the lambda calculus, which would transpile into JavaScript and compile into WASM.
+- Learning enough about computer science to be able to design my dream language - a friendly functional, object-oriented language inspired by Ruby, Scheme, F#, Haskell and the lambda calculus, which would transpile into JavaScript or compile to binary.
 - Learning enough about computer science to be able to design my other dream language - a strongly-typed functional language with no garbage collection for videogame engines and audio processing.
 - Contributing to functional models of concurrency and parallelism.
