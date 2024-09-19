@@ -16,15 +16,13 @@ Videogame, electronic music, visual kei, metal, j-fashion, anime, punk, computer
 ![c sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Has learnt
+## Familiar with
 ![kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=buymeacoffee&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![scheme](https://img.shields.io/badge/Scheme-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
 ![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby)
 ![sixty-eight thousand assembly](https://img.shields.io/badge/68k_ASM-E1140A?style=for-the-badge&logo=motorola&logoColor=white)
-
-## Other technologies
 ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![node dot js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![my sql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
