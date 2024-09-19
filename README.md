@@ -1,7 +1,6 @@
 # Cèlia Casanovas
 ## About me
 Junior fullstack developer from Barcelona.  
-Intern at Inetum.
 
 Videogame, electronic music, visual kei, metal, j-fashion, anime, punk, computer science enthusiast.  
 
