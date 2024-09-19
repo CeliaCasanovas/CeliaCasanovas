@@ -3,7 +3,7 @@
 Junior fullstack developer from Barcelona.  
 Intern at Inetum.
 
-Videogame, electronic music, visual kei, metal, j-fashion anime, punk, computer science enthusiast.  
+Videogame, electronic music, visual kei, metal, j-fashion, anime, punk, computer science enthusiast.  
 
 λf.(λx.f (x x))(λx.f (x x))
 
