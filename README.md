@@ -44,7 +44,7 @@ Videogame, electronic music, visual kei, metal, j-fashion anime, punk, computer 
 
 
 ## Wants to learn
-![c](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white)
+![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
