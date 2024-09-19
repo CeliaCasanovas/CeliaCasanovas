@@ -13,8 +13,8 @@ Videogame, electronic music, visual kei, metal, j-fashion anime, punk, computer 
 - Bachelor's Degree in Translation Studies (Japanese, French) from the Autonomous University of Barcelona (UAB).
 - Associate's Degree (Higher Technical Degree - CFGS) in Multiplatform Application Design (DAM) from the Barcelona Institute of Information and Communications Technology (ITICB).
 
-## Experience in
-![c sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp)
+## Confident in
+![c sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c#)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Has learnt
