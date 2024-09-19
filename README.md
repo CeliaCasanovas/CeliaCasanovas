@@ -60,7 +60,6 @@ Videogame, electronic music, visual kei, metal, j-fashion, anime, punk, computer
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![visual studio code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![v s codium](https://img.shields.io/badge/VS_Codium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
-![visual studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![notepad plus plus](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=white)
 ![notepad q q](https://img.shields.io/badge/Notepadqq-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=white)
 
