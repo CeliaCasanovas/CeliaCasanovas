@@ -14,7 +14,7 @@ Videogame, electronic music, visual kei, metal, j-fashion anime, punk, computer 
 - Associate's Degree (Higher Technical Degree - CFGS) in Multiplatform Application Design (DAM) from the Barcelona Institute of Information and Communications Technology (ITICB).
 
 ## Confident in
-![c sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c#)
+![c sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Has learnt
@@ -44,17 +44,13 @@ Videogame, electronic music, visual kei, metal, j-fashion anime, punk, computer 
 
 
 ## Wants to learn
-![c plus plus](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![c](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![solid jay ess](https://img.shields.io/badge/Solid.JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)
-![svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![deno](https://img.shields.io/badge/Deno-FFFFFF?style=for-the-badge&logo=deno&logoColor=black)
 ![bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![three dot jay ess](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![rabbit_emm_queue](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
