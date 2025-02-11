@@ -2,7 +2,7 @@
 ## About me
 Junior fullstack developer from Barcelona.  
 
-Videogame, electronic music, visual kei, metal, j-fashion, anime, punk, computer science enthusiast.  
+Videogame, electronic music, visual kei, metal, j-fashion, anime, punk, goth, industrial, horror, computer science enthusiast.  
 
 λf.(λx.f (x x))(λx.f (x x))
 
@@ -50,26 +50,16 @@ Videogame, electronic music, visual kei, metal, j-fashion, anime, punk, computer
 ![three dot jay ess](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![rabbit_emm_queue](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![discrete mathematics](https://img.shields.io/badge/Discrete_mathematics-purple?style=for-the-badge)
 
-## Uses
-![lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&logoColor=white)
-![pop_oh_ess](https://img.shields.io/badge/pop_os-48B9C7?style=for-the-badge&logo=popos&logoColor=white)
-![windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![visual studio code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![v s codium](https://img.shields.io/badge/VS_Codium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
-![notepad plus plus](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=white)
-![notepad q q](https://img.shields.io/badge/Notepadqq-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=white)
 
 ## Human languages
 - English, Catalan, Spanish.  
 - Some degree of proficiency in Japanese and French.
+- Residual German. Can be gained back and worked on if necessary.
 
 ## Dreams, from realistic to impractical
-- Working on games that speak to people like me.
+- Working on art that speaks to people like me. Music, photography, film, games.
+- Moving to front-end development and gaining design skills.
 - Learning about compiler and garbage collector theory and development.
-- Learning enough about computer science to be able to design my dream language - a friendly functional, object-oriented language inspired by Ruby, Scheme, F#, Haskell and the lambda calculus, which would transpile into JavaScript or compile to binary.
-- Learning enough about computer science to be able to design my other dream language - a strongly-typed functional language with no garbage collection for videogame engines and audio processing.
 - Contributing to functional models of concurrency and parallelism.
